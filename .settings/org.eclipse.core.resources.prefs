@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/Controller/Login.java=UTF-8
+encoding//src/Controller/Register.java=UTF-8
+encoding//src/dao/UserDaoImplements.java=UTF-8
+encoding//src/util/DBUtil.java=UTF-8
+encoding//src/view/LauncherJPanel.java=gbk
+encoding//src/view/LoginUI.java=UTF-8
+encoding//src/view/OnlinePanel.java=gbk
+encoding/src=gbk
